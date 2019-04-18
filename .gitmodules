@@ -1,8 +1,8 @@
 [submodule "laravel"]
 	path = laravel
-	url = https://github.com/Kasparsu/vueapi-back.git
+	url = https://github.com/juluvanahd/vueapi-back.git
 	branch = master
 [submodule "front"]
 	path = front
-	url = https://github.com/Kasparsu/vueapi-front.git
+	url = https://github.com/juluvanahd/vueapi-front.git
 	branch = master
